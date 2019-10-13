@@ -1,0 +1,11 @@
+@font-face {
+  font-family: fuenteLogo;
+  src: url(../fonts/Hand_Of_Sean_Demo.ttf);
+}
+
+.letraLogo{
+	font-family: fuenteLogo;
+	font-size: 15pt;
+	font-weight: bold;
+	color: white;
+}
